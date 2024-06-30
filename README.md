@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## Hi there 👋
 
 - 🧑‍💻 I'm a backend developer.
-- 🌱 I’m currently learning go!
+- 🌱 I’m currently learning rust!
 - 📫 How to reach me: [X (ex. Twitter) - @yutak03](https://x.com/yutak03)
 <br>
 
