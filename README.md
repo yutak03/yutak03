@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 
 - 🧑‍💻 I'm a backend developer.
 - 🌱 I’m currently learning rust!
-- 📫 How to reach me: [X (ex. Twitter) - @yutak03](https://x.com/yutak03)
+- 📫 How to reach me: [yutak03.dev@gmail.com](mailto:yutak03.dev@gmail.com)
+- X: [@yutak03](https://x.com/yutak03)
 <br>
 
 
