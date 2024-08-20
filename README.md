@@ -1,46 +1,16 @@
-<!--
-**yutak03/yutak03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
-Here are some ideas to get you started:
+### My Graph 📈
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yutak03&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Status
+<p align="left"> 
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yutak03&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutak03&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+</p>
 
-<!-- 1. GitHub usernameを変更 -->
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=yutak03" />
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=yutak03&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+### My Streak Stats 📌
 
-<!-- 2. プロフィールや連絡先を変更 -->
-## Hi there 👋
-
-- 🧑‍💻 I'm a backend developer.
-- 🌱 I’m currently learning rust!
-- 📫 How to reach me: [yutak03.dev@gmail.com](mailto:yutak03.dev@gmail.com)
-- X: [@yutak03](https://x.com/yutak03)
-<br>
-
-
-<!-- 3. 好きな技術スタックに変更 -->
-<!-- ライトモート：theme=light, ダークモート：theme=dark -->
-<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
-## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,fastapi,go,rust,php,svelte,docker,aws" />
-<br>
-
-
-<!-- 4. GitHub usernameを変更, 2箇所 -->
-<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## 🏃‍♀️ Activities
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=yutak03&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutak03&theme=vue-dark&layout=compact" />
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yutak03&theme=tokyonight)](https://git.io/streak-stats)
