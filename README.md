@@ -11,5 +11,3 @@
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutak03&layout=compact&count_private=true&show_icons=true&theme=github_dark" />
 </p>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yutak03&theme=dark)](https://git.io/streak-stats)
