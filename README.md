@@ -14,4 +14,4 @@
 
 ### My Streak Stats 📌
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yutak03&theme=github_dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yutak03&theme=dark)](https://git.io/streak-stats)
