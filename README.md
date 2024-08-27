@@ -12,8 +12,6 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutak03&layout=compact&count_private=true&show_icons=true&theme=github_dark" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yutak03&theme=github_dark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### My Streak Stats 📌
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yutak03&theme=github_dark)](https://git.io/streak-stats)
