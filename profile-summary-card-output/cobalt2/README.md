@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/yutak03/yutak03/main/profile-summary-card-output/cobalt2/4-productive-time.svg)
-```
-
-    
